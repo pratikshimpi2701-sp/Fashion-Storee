@@ -1,4 +1,4 @@
-# Day 4: Connecting Frontend to Backend (API Integration)
+ # Day 4: Connecting Frontend to Backend (API Integration)
 
 ## 🎯 Learning Objectives
 
